@@ -28,13 +28,13 @@ public class AutoText : MonoBehaviour
             textComp.text += letter;
             yield return new WaitForSeconds(letterPause);
         }
-        textHint.text = "Presione 'p' para avanzar.";
+        textHint.text = "Presione 'Espacio' para avanzar.";
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("p"))
+        if (Input.GetKeyDown("space"))
             
         {
             if (textComp.text == sentences[pos])
@@ -54,7 +54,7 @@ public class AutoText : MonoBehaviour
             {
                 StopAllCoroutines();
                 textComp.text = sentences[pos];
-                textHint.text = "Presione 'p' para avanzar.";
+                textHint.text = "Presione 'Espacio' para avanzar.";
             }
         }
 
