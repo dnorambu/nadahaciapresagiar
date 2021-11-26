@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Creator Kit - RPG/Scenes/BlankScene 1.unity
-    guid: 30839d5427b684a809b3f13fa94e3b0c
+    path: Assets/Creator Kit - RPG/Scenes/Prologo.unity
+    guid: c2e666f29e5838c479a823eaf313930a
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Nivel.unity
+    guid: 2ea7383a0a8af431080e0aa251ee7115
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Inicio.unity
+    guid: 40a5b4bbde563af458440c75e084a342
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Creditos.unity
+    guid: ffbbc2f8b93eb3244a5089887a5716a0
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Controles.unity
+    guid: c2d620e3793765d4f8dd76a2d620709c
   m_configObjects: {}
