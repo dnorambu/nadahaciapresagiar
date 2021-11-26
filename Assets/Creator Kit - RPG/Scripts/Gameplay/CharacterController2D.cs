@@ -22,9 +22,10 @@ namespace RPGM.Gameplay
         SpriteRenderer spriteRenderer;
         PixelPerfectCamera pixelPerfectCamera;
 
+
         enum State
         {
-            Idle, Moving
+            Idle, Moving,
         }
 
         State state = State.Idle;
