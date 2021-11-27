@@ -7,8 +7,9 @@ using RPGM.Gameplay;
 public class Revelar : MonoBehaviour
 {
     private bool fadeOut, fadeIn;
-    public float fadeSpeed;
-
+    public Transform player;
+    public float fadeSpeed = 0.8f;
+    float distance;
     public void fadeOutObject()
     {
         fadeOut = true;
@@ -26,7 +27,11 @@ public class Revelar : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Q))
         {
-            fadeOutObject();
+            distance = Vector3.Distance(player.position, this.transform.position);
+            print(distance);
+            if (distance <= 1f){
+                fadeOutObject();
+            }
         }
         
         if (fadeOut)
@@ -36,8 +41,7 @@ public class Revelar : MonoBehaviour
 
             objectColor = new Color(objectColor.r, objectColor.g, objectColor.b, fadeAmount);
             this.GetComponent<SpriteRenderer>().color = objectColor;
-
-            if (objectColor.a < 0.3 || !Input.GetKey(KeyCode.Q))
+            if (objectColor.a < 0.3 || !Input.GetKey(KeyCode.Q) )
             {
                 fadeInObject();
             }
