@@ -26,6 +26,13 @@ public class Reloj : MonoBehaviour
         ActualizarReloj(tiempoInicial);
     }
 
+    public void QuestDesactivaReloj()
+    {
+        texto.color = new Color(texto.color.r, texto.color.g, texto.color.b, 0f);
+        //tepea
+        player.position = new Vector2(19.53f, 2.5f);
+        Pausar();
+    }
     public void ActualizarReloj(float tiempoEnSegundos)
     {
         int minutos, segundos;

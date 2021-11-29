@@ -15,6 +15,7 @@ namespace RPGM.Gameplay
     {
         public int count = 1;
         public Sprite sprite;
+        public Reloj reloj;
 
         GameModel model = Schedule.GetModel<GameModel>();
 
@@ -34,6 +35,7 @@ namespace RPGM.Gameplay
             model.AddInventoryItem(this);
             UserInterfaceAudio.OnCollect();
             gameObject.SetActive(false);
+            reloj.QuestDesactivaReloj();
         }
     }
 }
