@@ -9,6 +9,7 @@ public class ControlDeEscena : MonoBehaviour
     // Start is called before the first frame update
     public Quest mision;
     public bool AntiLoop = true;
+    public string escena;
     void Start()
     {
         
@@ -33,6 +34,6 @@ public class ControlDeEscena : MonoBehaviour
 
         //After we have waited 5 seconds print the time again.
         Debug.Log("Finished Coroutine at timestamp : " + Time.time);
-        SceneManager.LoadScene("Prologo");
+        SceneManager.LoadScene(escena);
     }
 }
