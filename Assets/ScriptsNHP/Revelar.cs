@@ -31,7 +31,7 @@ public class Revelar : MonoBehaviour
             distance = Vector3.Distance(player.position, this.transform.position);
             //print(distance);
             //print(OtraParte.color.r);
-            if (distance <= 1f)
+            if (distance <= 2f)
             {
                 fadeOutObject();
             }

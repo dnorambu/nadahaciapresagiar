@@ -17,7 +17,8 @@ public class Reloj : MonoBehaviour
     private float tiempoAmostrarEnSegundos = 0f;
     private float escaladeTiempoAlPausar, escalaDeTiempoinicial;
     public bool estarPausado = true;
-    public AudioSource audioSource;
+    private AudioSource audioSource;
+    public AudioClip audioClip;
 
     private void Start()
     {
@@ -56,7 +57,7 @@ public class Reloj : MonoBehaviour
     {
         if (!estarPausado)
         {
-            audioSource.Play();
+            StartCoroutine(LeMusic());
             tiempoDelFrameConTimeScale = Time.deltaTime * escalaDeTiempo;
             tiempoAmostrarEnSegundos -= tiempoDelFrameConTimeScale;
             ActualizarReloj(tiempoAmostrarEnSegundos);
@@ -67,7 +68,7 @@ public class Reloj : MonoBehaviour
     {
         if (!estarPausado)
         {
-            audioSource.Stop();
+            StopAllCoroutines();
             estarPausado = true;
             escaladeTiempoAlPausar = escalaDeTiempo;
             escalaDeTiempo = 0;
@@ -78,7 +79,7 @@ public class Reloj : MonoBehaviour
     {
         if (estarPausado)
         {
-            audioSource.Play();
+            //audioSource.Play();
             estarPausado = false;
             escalaDeTiempo = escaladeTiempoAlPausar;
         }
@@ -86,10 +87,18 @@ public class Reloj : MonoBehaviour
 
     public void ReiniciarReloj()
     {
-        audioSource.Play();
         estarPausado = false;
         escalaDeTiempo = escalaDeTiempoinicial;
         tiempoAmostrarEnSegundos = tiempoInicial;
         ActualizarReloj(tiempoAmostrarEnSegundos);
     }
+
+    IEnumerator LeMusic()
+    {
+        audioSource.clip = audioClip;
+        audioSource.Play();
+        while (audioSource.isPlaying)
+            yield return null;
+    }
+
 }
