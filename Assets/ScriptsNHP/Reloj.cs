@@ -11,12 +11,12 @@ public class Reloj : MonoBehaviour
     [Tooltip("Escala de tiempo del reloj")]
     [Range(-10.0f, 10.0f)]
     public float escalaDeTiempo = 1;
-
+    public Transform player;
     private Text texto;
     private float tiempoDelFrameConTimeScale = 0f;
     private float tiempoAmostrarEnSegundos = 0f;
     private float escaladeTiempoAlPausar, escalaDeTiempoinicial;
-    private bool estarPausado = false;
+    public bool estarPausado = true;
 
     private void Start()
     {
@@ -31,7 +31,14 @@ public class Reloj : MonoBehaviour
         int minutos, segundos;
         string textoDelReloj;
 
-        if (tiempoEnSegundos < 0) tiempoEnSegundos = 0;
+        if (tiempoEnSegundos < 0)
+        {
+            texto.color = new Color(texto.color.r, texto.color.g, texto.color.b, 0f);
+            tiempoEnSegundos = tiempoInicial;
+            //tepea
+            player.position = new Vector2(19.53f, 2.5f);
+            Pausar();
+        }
         minutos = (int)tiempoEnSegundos / 60;
         segundos = (int)tiempoEnSegundos % 60;
         textoDelReloj = minutos.ToString("00") + ":" + segundos.ToString("00");
@@ -39,9 +46,12 @@ public class Reloj : MonoBehaviour
     } 
     public void Update()
     {
-        tiempoDelFrameConTimeScale = Time.deltaTime * escalaDeTiempo;
-        tiempoAmostrarEnSegundos -= tiempoDelFrameConTimeScale;
-        ActualizarReloj(tiempoAmostrarEnSegundos);
+        if (!estarPausado)
+        {
+            tiempoDelFrameConTimeScale = Time.deltaTime * escalaDeTiempo;
+            tiempoAmostrarEnSegundos -= tiempoDelFrameConTimeScale;
+            ActualizarReloj(tiempoAmostrarEnSegundos);
+        }
     }
 
     public void Pausar()
