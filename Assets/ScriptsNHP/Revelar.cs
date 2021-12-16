@@ -31,11 +31,12 @@ public class Revelar : MonoBehaviour
             distance = Vector3.Distance(player.position, this.transform.position);
             //print(distance);
             //print(OtraParte.color.r);
-            if (distance <= 1f){
+            if (distance <= 2f)
+            {
                 fadeOutObject();
             }
         }
-        
+
         if (fadeOut)
         {
             Color objectColor = this.GetComponent<SpriteRenderer>().color;
@@ -49,7 +50,7 @@ public class Revelar : MonoBehaviour
                 objectColor2 = new Color(objectColor2.r, objectColor2.g, objectColor2.b, fadeAmount2);
                 OtraParte.color = objectColor2;
             }
-            if (objectColor.a < 0.3 || !Input.GetKey(KeyCode.Q) )
+            if (objectColor.a < 0.3 || !Input.GetKey(KeyCode.Q))
             {
                 fadeInObject();
             }
@@ -62,7 +63,7 @@ public class Revelar : MonoBehaviour
             objectColor = new Color(objectColor.r, objectColor.g, objectColor.b, fadeAmount);
             this.GetComponent<SpriteRenderer>().color = objectColor;
 
-            if( OtraParte != null)
+            if (OtraParte != null)
             {
                 Color objectColor2 = OtraParte.color;
                 float fadeAmount2 = objectColor2.a + (fadeSpeed * Time.deltaTime);
@@ -77,6 +78,4 @@ public class Revelar : MonoBehaviour
             }
         }
     }
-
-
 }

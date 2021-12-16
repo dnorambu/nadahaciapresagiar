@@ -503,8 +503,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da50f54d4de7b4681b024e7d990b2b1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioMixerGroup: {fileID: 0}
-  audioClip: {fileID: 8300000, guid: c6b1e4491dcc9de4dad8102c76c2b05e, type: 3}
+  audioMixerGroup: {fileID: 243130672931075838, guid: 757bde2b477994d60bfff9141343ce02,
+    type: 2}
+  audioClip: {fileID: 8300000, guid: 9434fd262bb5d8147b9771bae3f02e06, type: 3}
   crossFadeTime: 3
 --- !u!114 &731095219
 MonoBehaviour:
@@ -1035,7 +1036,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.40383488, y: 0.07310137}
   m_AnchorMax: {x: 0.601, y: 0.178}
-  m_AnchoredPosition: {x: -1.0000153, y: 0.34750366}
+  m_AnchoredPosition: {x: -1.0000153, y: 0.34747314}
   m_SizeDelta: {x: -3.5179977, y: 0.6949997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1659196099
