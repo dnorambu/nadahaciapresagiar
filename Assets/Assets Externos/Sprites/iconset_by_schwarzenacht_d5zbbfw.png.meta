@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: cb821bd69fd7b6a40ab6aebfefe629ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1907528174016169866
+    second: iconset_by_schwarzenacht_d5zbbfw_0
+  - first:
+      213: -2193476442525652180
+    second: iconset_by_schwarzenacht_d5zbbfw_1
+  - first:
+      213: -6118496441736503383
+    second: iconset_by_schwarzenacht_d5zbbfw_2
+  - first:
+      213: 4923683989813215685
+    second: iconset_by_schwarzenacht_d5zbbfw_3
+  - first:
+      213: 4791789191757483447
+    second: iconset_by_schwarzenacht_d5zbbfw_5
+  - first:
+      213: 7692316417839812147
+    second: iconset_by_schwarzenacht_d5zbbfw_6
+  - first:
+      213: -8289009440065832619
+    second: iconset_by_schwarzenacht_d5zbbfw_7
+  - first:
+      213: 7945407407015934485
+    second: iconset_by_schwarzenacht_d5zbbfw_8
+  - first:
+      213: 6781947226418674026
+    second: iconset_by_schwarzenacht_d5zbbfw_9
+  - first:
+      213: 2557218487662464035
+    second: iconset_by_schwarzenacht_d5zbbfw_10
+  - first:
+      213: 6506462650192890762
+    second: iconset_by_schwarzenacht_d5zbbfw_11
+  - first:
+      213: 4702466643569762767
+    second: iconset_by_schwarzenacht_d5zbbfw_12
+  - first:
+      213: -4677793161651703086
+    second: iconset_by_schwarzenacht_d5zbbfw_13
+  - first:
+      213: -6837967517324879537
+    second: iconset_by_schwarzenacht_d5zbbfw_14
+  - first:
+      213: -3654863209550141682
+    second: iconset_by_schwarzenacht_d5zbbfw_15
+  - first:
+      213: 5279345909437244554
+    second: iconset_by_schwarzenacht_d5zbbfw_16
+  - first:
+      213: 1699993292103639628
+    second: iconset_by_schwarzenacht_d5zbbfw_17
+  - first:
+      213: -2513824392592505768
+    second: iconset_by_schwarzenacht_d5zbbfw_18
+  - first:
+      213: 4440262958815433348
+    second: iconset_by_schwarzenacht_d5zbbfw_19
+  - first:
+      213: -1160667657550532714
+    second: iconset_by_schwarzenacht_d5zbbfw_20
+  - first:
+      213: 7553274807129532319
+    second: iconset_by_schwarzenacht_d5zbbfw_21
+  - first:
+      213: -1430313592583840345
+    second: iconset_by_schwarzenacht_d5zbbfw_22
+  - first:
+      213: 3566833714790544884
+    second: iconset_by_schwarzenacht_d5zbbfw_23
+  - first:
+      213: -2039951511029317463
+    second: iconset_by_schwarzenacht_d5zbbfw_24
+  - first:
+      213: -4673202230634555241
+    second: iconset_by_schwarzenacht_d5zbbfw_25
+  - first:
+      213: 2238824310666883353
+    second: iconset_by_schwarzenacht_d5zbbfw_26
+  - first:
+      213: 4077899523903540994
+    second: iconset_by_schwarzenacht_d5zbbfw_27
+  - first:
+      213: 1854862177917402509
+    second: iconset_by_schwarzenacht_d5zbbfw_28
+  - first:
+      213: -5573676096604437021
+    second: iconset_by_schwarzenacht_d5zbbfw_29
+  - first:
+      213: 8941143937388278226
+    second: iconset_by_schwarzenacht_d5zbbfw_30
+  - first:
+      213: 8046409740874944881
+    second: iconset_by_schwarzenacht_d5zbbfw_31
+  - first:
+      213: 4278523531378079749
+    second: iconset_by_schwarzenacht_d5zbbfw_32
+  - first:
+      213: -4583254599878436316
+    second: iconset_by_schwarzenacht_d5zbbfw_33
+  - first:
+      213: 1903119248806093122
+    second: iconset_by_schwarzenacht_d5zbbfw_34
+  - first:
+      213: -1883215162929003282
+    second: iconset_by_schwarzenacht_d5zbbfw_35
+  - first:
+      213: 7069636547219574459
+    second: iconset_by_schwarzenacht_d5zbbfw_36
+  - first:
+      213: -8915909813805411037
+    second: iconset_by_schwarzenacht_d5zbbfw_37
+  - first:
+      213: 2543819886295491895
+    second: iconset_by_schwarzenacht_d5zbbfw_38
+  - first:
+      213: 460207228244277045
+    second: iconset_by_schwarzenacht_d5zbbfw_39
+  - first:
+      213: -6628211804646432883
+    second: iconset_by_schwarzenacht_d5zbbfw_40
+  - first:
+      213: 6931648729297559459
+    second: iconset_by_schwarzenacht_d5zbbfw_41
+  - first:
+      213: -6530765203223840046
+    second: iconset_by_schwarzenacht_d5zbbfw_42
+  - first:
+      213: -5119850168805403683
+    second: iconset_by_schwarzenacht_d5zbbfw_43
+  - first:
+      213: -6876767730402794681
+    second: iconset_by_schwarzenacht_d5zbbfw_44
+  - first:
+      213: 5683891637833651022
+    second: iconset_by_schwarzenacht_d5zbbfw_45
+  - first:
+      213: -4123754191354800496
+    second: iconset_by_schwarzenacht_d5zbbfw_46
+  - first:
+      213: 1273076697560162815
+    second: iconset_by_schwarzenacht_d5zbbfw_47
+  - first:
+      213: 7572358631491463423
+    second: iconset_by_schwarzenacht_d5zbbfw_48
+  - first:
+      213: -7361234861478546115
+    second: iconset_by_schwarzenacht_d5zbbfw_49
+  - first:
+      213: -8679724054469027867
+    second: iconset_by_schwarzenacht_d5zbbfw_50
+  - first:
+      213: -680400517137732370
+    second: iconset_by_schwarzenacht_d5zbbfw_51
+  - first:
+      213: -3086271457090847054
+    second: iconset_by_schwarzenacht_d5zbbfw_52
+  - first:
+      213: -2060488561891290684
+    second: iconset_by_schwarzenacht_d5zbbfw_53
+  - first:
+      213: -5088344966169412568
+    second: iconset_by_schwarzenacht_d5zbbfw_54
+  - first:
+      213: -4262721892081711252
+    second: iconset_by_schwarzenacht_d5zbbfw_55
+  - first:
+      213: 1096043610237803102
+    second: iconset_by_schwarzenacht_d5zbbfw_56
+  - first:
+      213: 436452912781805129
+    second: iconset_by_schwarzenacht_d5zbbfw_57
+  - first:
+      213: -5467276464055255887
+    second: iconset_by_schwarzenacht_d5zbbfw_58
+  - first:
+      213: -4832308195524803364
+    second: iconset_by_schwarzenacht_d5zbbfw_59
+  - first:
+      213: 8262854046641612919
+    second: iconset_by_schwarzenacht_d5zbbfw_60
+  - first:
+      213: 5534022720106717967
+    second: iconset_by_schwarzenacht_d5zbbfw_61
+  - first:
+      213: -6612004070517267265
+    second: iconset_by_schwarzenacht_d5zbbfw_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67877b47b391785e0800000000000000
+      internalID: -1907528174016169866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 120
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b221c0cc43f81e0800000000000000
+      internalID: -2193476442525652180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afddc647ebb61ba0800000000000000
+      internalID: -6118496441736503383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 120
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1481f7080745440800000000000000
+      internalID: 4923683989813215685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 121
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc245c1eadf7240800000000000000
+      internalID: 4791789191757483447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4f31c60990ca60800000000000000
+      internalID: 7692316417839812147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 120
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593401d4d587fc80800000000000000
+      internalID: -8289009440065832619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 120
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a31faa0f1c34e60800000000000000
+      internalID: 7945407407015934485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 120
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697124f1115e1e50800000000000000
+      internalID: 6781947226418674026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cce227aa01d7320800000000000000
+      internalID: 2557218487662464035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0811ce499b4a50800000000000000
+      internalID: 6506462650192890762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 96
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc169126f74824140800000000000000
+      internalID: 4702466643569762767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2bffa47e3251fb0800000000000000
+      internalID: -4677793161651703086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d038a5c8aa11a0800000000000000
+      internalID: -6837967517324879537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 98
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ae147641574dc0800000000000000
+      internalID: -3654863209550141682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 98
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842b6a2221044940800000000000000
+      internalID: 5279345909437244554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 99
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42626864e6979710800000000000000
+      internalID: 1699993292103639628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 97
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854cfc3a80a1d1dd0800000000000000
+      internalID: -2513824392592505768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d481b2abfe9d30800000000000000
+      internalID: 4440262958815433348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6a693aea74efe0800000000000000
+      internalID: -1160667657550532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ecd90b6f92d860800000000000000
+      internalID: 7553274807129532319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad90ac9d51862ce0800000000000000
+      internalID: -1430313592583840345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53afe9d50ff7130800000000000000
+      internalID: 3566833714790544884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0831aa8e2a0b3e0800000000000000
+      internalID: -2039951511029317463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 73
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d677b453752fb0800000000000000
+      internalID: -4673202230634555241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911fec749d6e11f10800000000000000
+      internalID: 2238824310666883353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4108e20c979830800000000000000
+      internalID: 4077899523903540994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 48
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df216c25bcdb910800000000000000
+      internalID: 1854862177917402509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e58ec8ee1356a2b0800000000000000
+      internalID: -5573676096604437021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17aa1f903551c70800000000000000
+      internalID: 8941143937388278226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171181217079aaf60800000000000000
+      internalID: 8046409740874944881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 52
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b0f2bb7e506b30800000000000000
+      internalID: 4278523531378079749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 50
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a121b79320560c0800000000000000
+      internalID: -4583254599878436316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_34
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 51
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ab46afdc396a10800000000000000
+      internalID: 1903119248806093122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 51
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4ccf979c97dd5e0800000000000000
+      internalID: -1883215162929003282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4420bbf46c1260800000000000000
+      internalID: 7069636547219574459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 49
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32595ba4343544480800000000000000
+      internalID: -8915909813805411037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 52
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a73775b67d4320800000000000000
+      internalID: 2543819886295491895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 51
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537319a290cf26600800000000000000
+      internalID: 460207228244277045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f9fff3b7cd304a0800000000000000
+      internalID: -6628211804646432883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af91993bc9223060800000000000000
+      internalID: 6931648729297559459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da7c5e26af0e55a0800000000000000
+      internalID: -6530765203223840046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35129c563a2f8b0800000000000000
+      internalID: -5119850168805403683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e8721f20d090a0800000000000000
+      internalID: -6876767730402794681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4353ee745d31ee40800000000000000
+      internalID: 5683891637833651022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 25
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d44b596b75c6c0800000000000000
+      internalID: -4123754191354800496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1a6e9e280eaa110800000000000000
+      internalID: 1273076697560162815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff869e52e0c661960800000000000000
+      internalID: 7572358631491463423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 25
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35795d15e3a7d990800000000000000
+      internalID: -7361234861478546115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d5f8a5fc6b8780800000000000000
+      internalID: -8679724054469027867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 25
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6307a55bbe86f0800000000000000
+      internalID: -680400517137732370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3ca7267c5b25d0800000000000000
+      internalID: -3086271457090847054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 24
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d6b4e19ca763e0800000000000000
+      internalID: -2060488561891290684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 25
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c33d466319269b0800000000000000
+      internalID: -5088344966169412568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6740362605c7d4c0800000000000000
+      internalID: -4262721892081711252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9f8e3bdde53f00800000000000000
+      internalID: 1096043610237803102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464b8b9c979e0600800000000000000
+      internalID: 436452912781805129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf127d5055024b0800000000000000
+      internalID: -5467276464055255887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd409808c4130fcb0800000000000000
+      internalID: -4832308195524803364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e8f81afd8ba270800000000000000
+      internalID: 8262854046641612919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e6eae75ccccc40800000000000000
+      internalID: 5534022720106717967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconset_by_schwarzenacht_d5zbbfw_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a16b64517d34a0800000000000000
+      internalID: -6612004070517267265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

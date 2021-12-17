@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 8b51168a8c791e147b91828a2beb31aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7088023069382793160
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_0
+  - first:
+      213: -7698733584708899846
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_1
+  - first:
+      213: -8438019437405339509
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_2
+  - first:
+      213: -4024390018075072576
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_3
+  - first:
+      213: -1619699365404562020
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_4
+  - first:
+      213: 8444428622112187434
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_5
+  - first:
+      213: 2492821561851729541
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_6
+  - first:
+      213: -4978423322618994742
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_7
+  - first:
+      213: 315250047593889782
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_8
+  - first:
+      213: -8015417008515798307
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_9
+  - first:
+      213: 6049547688187793171
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_10
+  - first:
+      213: 1563336717213459264
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_11
+  - first:
+      213: 2194618068497934038
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_12
+  - first:
+      213: -5510536035950048859
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_13
+  - first:
+      213: -1856849748508190387
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_14
+  - first:
+      213: -1236633973995964194
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_15
+  - first:
+      213: -30968168636012349
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_16
+  - first:
+      213: 8075377200457970889
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_17
+  - first:
+      213: 5661834893928988289
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_18
+  - first:
+      213: -9196316219316909816
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_19
+  - first:
+      213: 1324650022290680647
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_20
+  - first:
+      213: -8043955717189974038
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_21
+  - first:
+      213: 8828905933624966422
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_22
+  - first:
+      213: 1139385816118028858
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_23
+  - first:
+      213: 3724827611861085445
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_24
+  - first:
+      213: -7494303988948425051
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_25
+  - first:
+      213: -8609235746354432133
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_26
+  - first:
+      213: -6047618965463583331
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_27
+  - first:
+      213: -1751478207203300620
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_28
+  - first:
+      213: -1496658032660862067
+    second: farm_exterior_tileset_by_aveontrainer_dej3gqt_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8382aa5829842ad90800000000000000
+      internalID: -7088023069382793160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1046
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb6e07289a982590800000000000000
+      internalID: -7698733584708899846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1054
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800d99370226ea80800000000000000
+      internalID: -8438019437405339509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1064
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e107c99e7628c0800000000000000
+      internalID: -4024390018075072576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1010
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da22a320ca589e0800000000000000
+      internalID: -1619699365404562020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 978
+        width: 64
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2463206713a03570800000000000000
+      internalID: 8444428622112187434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1010
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865b92c008489220800000000000000
+      internalID: 2492821561851729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 882
+        width: 120
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf56c96d5619eab0800000000000000
+      internalID: -4978423322618994742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff324e7f3eff5400800000000000000
+      internalID: 315250047593889782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 850
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaaac0c2b483c090800000000000000
+      internalID: -8015417008515798307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 754
+        width: 90
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f083e029f44f350800000000000000
+      internalID: 6049547688187793171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 632
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04365dd167612b510800000000000000
+      internalID: 1563336717213459264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d629767189d47e10800000000000000
+      internalID: 2194618068497934038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 598
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9453fdba4a683b0800000000000000
+      internalID: -5510536035950048859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 444
+        width: 140
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 57}
+        - {x: -51, y: 81}
+        - {x: -10, y: 106}
+        - {x: 70, y: 106}
+        - {x: 70, y: -106}
+        - {x: -70, y: -106}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4955e2edf42b36e0800000000000000
+      internalID: -1856849748508190387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 96
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed87aced3f796dee0800000000000000
+      internalID: -1236633973995964194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 96
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82b1d5d9af19ff0800000000000000
+      internalID: -30968168636012349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 370
+        width: 120
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f59457c0811070800000000000000
+      internalID: 8075377200457970889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 88
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7c8d96d0e29e40800000000000000
+      internalID: 5661834893928988289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 210
+        width: 124
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809c3796f1f106080800000000000000
+      internalID: -9196316219316909816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 204
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b695e4d2a126210800000000000000
+      internalID: 1324650022290680647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74be7d4e02e5090800000000000000
+      internalID: -8043955717189974038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1010
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dfd094b23968a70800000000000000
+      internalID: 8828905933624966422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a65dfec59efcf00800000000000000
+      internalID: 1139385816118028858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50deb8e5afe31b330800000000000000
+      internalID: 3724827611861085445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 754
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6afe38a32eef790800000000000000
+      internalID: -7494303988948425051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 754
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f2fec3b9d58880800000000000000
+      internalID: -8609235746354432133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 658
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b0a2b79a821ca0800000000000000
+      internalID: -6047618965463583331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 691
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa2fcba9df71b7e0800000000000000
+      internalID: -1751478207203300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm_exterior_tileset_by_aveontrainer_dej3gqt_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba30de27dca3be0800000000000000
+      internalID: -1496658032660862067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
