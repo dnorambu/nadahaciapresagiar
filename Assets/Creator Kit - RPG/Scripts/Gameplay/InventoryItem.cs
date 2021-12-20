@@ -35,7 +35,7 @@ namespace RPGM.Gameplay
             model.AddInventoryItem(this);
             UserInterfaceAudio.OnCollect();
             gameObject.SetActive(false);
-            reloj.QuestDesactivaReloj();
+            if(reloj != null) reloj.QuestDesactivaReloj();
         }
     }
 }

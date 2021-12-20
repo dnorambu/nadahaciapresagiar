@@ -10,7 +10,7 @@ public class Revelar : MonoBehaviour
     public Transform player;
     public SpriteRenderer OtraParte = null;
     public float fadeSpeed = 0.8f;
-    float distance;
+    public float distance = 1.0f;
     public void fadeOutObject()
     {
         fadeOut = true;
