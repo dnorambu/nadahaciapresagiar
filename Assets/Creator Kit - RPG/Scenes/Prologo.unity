@@ -337,7 +337,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5925002, y: 0}
   m_AnchorMax: {x: 0.9892683, y: 0.06373099}
-  m_AnchoredPosition: {x: 1.8530273, y: -2.1747437}
+  m_AnchoredPosition: {x: 1.8530273, y: -2.1748047}
   m_SizeDelta: {x: -4.520996, y: -4.3494997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1415690490
@@ -453,7 +453,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "A\xFAn recuerdo esa noche como si fuera ayer..."
+  m_Text: "\xBFA\xFAn recuerdo esa noche como si fuera ayer...?"
 --- !u!222 &1929885309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -476,7 +476,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   letterPause: 0.1
   sentences:
-  - Aun recuerdo esa noche como si fuera ayer...
+  - "A\xFAn recuerdo esa noche como si fuera ayer..."
   - "Esa noche que cambi\xF3 mi vida por completo"
   - He perdido a mi familia a cambio de sufrimiento...
   - Y una sed enfermiza de venganza.
