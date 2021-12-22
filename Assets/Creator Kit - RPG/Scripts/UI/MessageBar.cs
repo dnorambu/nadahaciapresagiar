@@ -28,27 +28,27 @@ namespace RPGM.UI
                 if (messages.Count > 0)
                 {
                     textMeshPro.text = messages.Dequeue();
-                    spriteRenderer.color = new Color(1, 1, 1, 0);
+                    spriteRenderer.color = new Color(0.6226415f, 0.1732823f, 0.1732823f, 0);
                     textMeshPro.color = new Color(1, 1, 1, 0);
                     var T = 0f;
                     while (T < 1)
                     {
                         T += Time.deltaTime;
-                        spriteRenderer.color = new Color(1, 1, 1, T);
+                        spriteRenderer.color = new Color(0.6226415f, 0.1732823f, 0.1732823f, T); ;
                         textMeshPro.color = new Color(1, 1, 1, T);
                         yield return null;
                     }
-                    spriteRenderer.color = Color.white;
+                    spriteRenderer.color = new Color(0.6226415f, 0.1732823f, 0.1732823f, 1); ;
                     textMeshPro.color = Color.white;
                     yield return delay;
                     while (T > 0)
                     {
                         T -= Time.deltaTime;
-                        spriteRenderer.color = new Color(1, 1, 1, T);
+                        spriteRenderer.color = new Color(0.6226415f, 0.1732823f, 0.1732823f, T);
                         textMeshPro.color = new Color(1, 1, 1, T);
                         yield return null;
                     }
-                    spriteRenderer.color = new Color(1, 1, 1, 0);
+                    spriteRenderer.color = new Color(0.6226415f, 0.1732823f, 0.1732823f, 0);
                     textMeshPro.color = new Color(1, 1, 1, 0);
                 }
             }
