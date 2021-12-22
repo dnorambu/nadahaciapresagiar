@@ -478,8 +478,14 @@ MonoBehaviour:
   sentences:
   - "A\xFAn recuerdo esa noche como si fuera ayer..."
   - "Esa noche que cambi\xF3 mi vida por completo"
+  - Ese maldito accidente.
   - He perdido a mi familia a cambio de sufrimiento...
   - Y una sed enfermiza de venganza.
+  - "Fu\xED el \xFAnico que sobrevivi\xF3, qued\xE9 en ruedas..."
+  - "Sin embargo, he descubierto un nuevo poder en m\xED."
+  - Le llamo el sexto sentido
+  - "Puedo ver a trav\xE9s de las paredes. Es una se\xF1al."
+  - "Har\xE9 uso de este poder para cumplir mi venganza..."
   textComp: {fileID: 0}
   textHint: {fileID: 1415690490}
 --- !u!1 &2135585508
