@@ -10,7 +10,8 @@ public class Revelar : MonoBehaviour
     public Transform player;
     public SpriteRenderer OtraParte = null;
     public float fadeSpeed = 0.8f;
-    public float distance = 1.0f;
+    public float distanciaFija = 1.0f;
+    private float distance;
     public void fadeOutObject()
     {
         fadeOut = true;
@@ -31,7 +32,7 @@ public class Revelar : MonoBehaviour
             distance = Vector3.Distance(player.position, this.transform.position);
             //print(distance);
             //print(OtraParte.color.r);
-            if (distance <= 2f)
+            if (distance <= distanciaFija)
             {
                 fadeOutObject();
             }
