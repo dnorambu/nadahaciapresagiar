@@ -7,8 +7,8 @@ namespace RPGM.Gameplay
     /// <summary>
     /// Marks a sprite that should fade away when the player character enters it's trigger.
     /// </summary>
-    /// <typeparam name="FadingSprite"></typeparam>
-    [RequireComponent(typeof(SpriteRenderer), typeof(Collider2D))]
+    ///// <typeparam name="FadingSprite"></typeparam>
+    //[RequireComponent(typeof(SpriteRenderer), typeof(Collider2D))]
     public class FadingSprite : InstanceTracker<FadingSprite>
     {
         internal SpriteRenderer spriteRenderer;
