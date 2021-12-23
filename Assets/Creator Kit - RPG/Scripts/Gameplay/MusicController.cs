@@ -23,17 +23,19 @@ namespace RPGM.Gameplay
 
         void Update()
         {
-            audioSourceA.volume = Mathf.SmoothDamp(audioSourceA.volume, 1f, ref audioSourceAVolumeVelocity, crossFadeTime, 1);
-            audioSourceB.volume = Mathf.SmoothDamp(audioSourceB.volume, 0f, ref audioSourceBVolumeVelocity, crossFadeTime, 1);
+            //audioSourceA.volume = Mathf.SmoothDamp(audioSourceA.volume, 1f, ref audioSourceAVolumeVelocity, crossFadeTime, 1);
+            //audioSourceB.volume = Mathf.SmoothDamp(audioSourceB.volume, 0f, ref audioSourceBVolumeVelocity, crossFadeTime, 1);
         }
 
         void OnEnable()
         {
+            
             audioSourceA = gameObject.AddComponent<AudioSource>();
             audioSourceA.spatialBlend = 0;
             audioSourceA.clip = audioClip;
             audioSourceA.loop = true;
             audioSourceA.outputAudioMixerGroup = audioMixerGroup;
+            audioSourceA.volume = 0.1f;
             audioSourceA.Play();
 
             audioSourceB = gameObject.AddComponent<AudioSource>();
