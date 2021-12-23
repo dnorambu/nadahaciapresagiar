@@ -16,6 +16,7 @@ namespace RPGM.Gameplay
         public int count = 1;
         public Sprite sprite;
         public Reloj reloj;
+        public GameObject story;
 
         GameModel model = Schedule.GetModel<GameModel>();
 
@@ -31,10 +32,14 @@ namespace RPGM.Gameplay
 
         public void OnTriggerEnter2D(Collider2D collider)
         {
-            MessageBar.Show($"You collected: {name} x {count}");
+            MessageBar.Show($"Has conseguido: {name} x {count}");
             model.AddInventoryItem(this);
             UserInterfaceAudio.OnCollect();
             gameObject.SetActive(false);
+            if (story != null)
+            {
+                Destroy(story);
+            }
             if(reloj != null) reloj.QuestDesactivaReloj();
         }
     }
