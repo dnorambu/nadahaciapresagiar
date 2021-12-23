@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Creator Kit - RPG/Scenes/Nivel 3.unity
     guid: 185e1d2467658814caf38e3660d5f9df
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Nivel 4.unity
+    guid: a057f0472b5639b40b7a3211c047347d
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Escena final.unity
+    guid: 60066d1a425ba0244801b3445ec726dc
   m_configObjects: {}

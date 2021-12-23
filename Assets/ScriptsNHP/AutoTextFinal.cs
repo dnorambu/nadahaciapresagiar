@@ -4,10 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class AutoText : MonoBehaviour
+public class AutoTextFinal : MonoBehaviour
 {
     public float letterPause = 0.1f;
     public string[] sentences;
+    public string Escena = "";
     int pos = 0;
     string message;
     public Text textComp;
@@ -15,10 +16,7 @@ public class AutoText : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        textComp = GetComponent<Text>();
-        message = textComp.text;
-        textComp.text = "";
-        StartCoroutine(TypeText(sentences[pos]));
+        StartCoroutine(Corutina());
     }
 
     IEnumerator TypeText(string mensaje)
@@ -35,22 +33,24 @@ public class AutoText : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown("space"))
-            
+
         {
             if (textComp.text == sentences[pos])
             {
-                if (sentences.Length == pos+1)
+                if (sentences.Length == pos + 1)
                 {
-                    LoadScene("Nivel 1");
-                } else
+                    LoadScene(Escena);
+                }
+                else
                 {
                     textComp.text = "";
                     pos += 1;
                     textHint.text = "";
                     StartCoroutine(TypeText(sentences[pos]));
                 }
-                
-            } else
+
+            }
+            else
             {
                 StopAllCoroutines();
                 textComp.text = sentences[pos];
@@ -58,6 +58,19 @@ public class AutoText : MonoBehaviour
             }
         }
 
+    }
+    IEnumerator Corutina()
+    {
+        //Debug.Log("Started Coroutine at timestamp : " + Time.time);
+
+        //yield on a new YieldInstruction that waits for 5 seconds.
+        yield return new WaitForSeconds(3);
+        textComp = GetComponent<Text>();
+        message = textComp.text;
+        textComp.text = "";
+        StartCoroutine(TypeText(sentences[pos]));
+        //After we have waited 5 seconds print the time again.
+        //Debug.Log("Finished Coroutine at timestamp : " + Time.time);
     }
 
     public void LoadScene(string scene)
