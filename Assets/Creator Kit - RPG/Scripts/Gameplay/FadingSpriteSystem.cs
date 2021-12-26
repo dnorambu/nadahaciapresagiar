@@ -14,7 +14,6 @@ namespace RPGM.Gameplay
             {
                 if (c == null)
                 {
-                    Debug.Log("ola");
                 } else
                 {
                     Debug.Log("chao");
