@@ -21,7 +21,6 @@ public class CambiarAnimacion : MonoBehaviour
         {
             if (questFinal.isStarted)
             {
-
                 Debug.Log("Si esta entrando aqui");
                 isChanged = true;
                 anim.runtimeAnimatorController = animNuevo;
